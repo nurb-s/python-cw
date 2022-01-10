@@ -1,4 +1,3 @@
-#!flask/bin/python
 from flask import Flask, jsonify, abort, request, make_response
 import os.path
 from tempfile import NamedTemporaryFile
